@@ -1,4 +1,4 @@
 git clone
 git add
-git commmit "Mon commentaire"
+git commmit -m "Mon commentaire"
 git push
