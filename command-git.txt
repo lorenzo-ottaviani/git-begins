@@ -3,3 +3,5 @@ git add
 git commmit -m "Mon commentaire"
 git push
 git pull
+git branch touche-pas-ma-branche
+git checkout touch-pas-ma-branche
